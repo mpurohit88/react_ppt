@@ -27,6 +27,7 @@ single responsibility principle, that is, a component should ideally only do one
 
 #HSLIDE
 More About Components
+
 Stateful vs Stateless
 
 Classes and Functions
