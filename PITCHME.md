@@ -17,7 +17,7 @@
 
 ## What we will cover today ?
 - Components<!-- .element: class="fragment" -->
-- State <!-- .element: class="fragment" -->
+- Data Model <!-- .element: class="fragment" -->
 - Lifecycle<!-- .element: class="fragment" -->
 
 
@@ -59,7 +59,8 @@
 - Only components defined as classes can have state.<!-- .element: class="fragment" -->
 
 #HSLIDE
-# props
+
+## props
 
 - Props are inputs to a React component. They are data passed down from a parent component to a child component. <!-- .element: class="fragment" -->
 
