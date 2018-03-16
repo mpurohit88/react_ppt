@@ -20,7 +20,7 @@ components
 
 components are basically just functions that return the view based on the current state.
 
-React components are small, reusable pieces of code that return a React element to be rendered to the page.
+Components let you split the UI into independent, reusable pieces, and think about each piece in isolation
 
 single responsibility principle, that is, a component should ideally only do one thing.
 
@@ -28,11 +28,13 @@ single responsibility principle, that is, a component should ideally only do one
 #HSLIDE
 More About Components
 
-Stateful(containers) vs Stateless(presenters)
+Stateful vs Stateless
 
 Classes and Functions
 
 Pure and Impure
+
+Presentational and Container Components
 
 Composition Patterns
 
