@@ -28,11 +28,13 @@ single responsibility principle, that is, a component should ideally only do one
 #HSLIDE
 More About Components
 
-Stateful vs Stateless
+Stateful(containers) vs Stateless(presenters)
 
 Classes and Functions
 
 Pure and Impure
+
+Composition Patterns
 
 #HSLIDE
 Here are two types of “model” data in React:
