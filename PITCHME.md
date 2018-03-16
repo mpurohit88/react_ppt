@@ -57,7 +57,7 @@
 #HSLIDE
 ## Sample Code
 
-``
+```
 class Greeting extends React.Component {
 
   render() {
@@ -67,7 +67,7 @@ class Greeting extends React.Component {
   }
   
 }
-``
+```
 
 #HSLIDE
 ## More About Components
