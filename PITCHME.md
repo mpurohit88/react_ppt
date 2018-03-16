@@ -7,7 +7,9 @@ Mukesh Purohit - 16 March 2018
 Why React ?
 
 React is a view layer that uses virtual DOM for performance.
+
 React can be used as the V in MVC.
+
 React’s true strengths: composition, unidirectional data flow, freedom from DSLs, explicit mutation and static mental model.
 
 #HSLIDE
