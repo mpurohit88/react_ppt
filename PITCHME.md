@@ -4,15 +4,21 @@
 
 <span class="primary"><strong>Mukesh Purohit</strong></span> - 16 March 2018
  
+#HSLIDE
+
+# Why React
+
+- React is a view layer that uses virtual DOM for performance.<!-- .element: class="fragment" -->
+- React can be used as the V in MVC.<!-- .element: class="fragment" -->
 
 #HSLIDE
-Why React ?
 
-React is a view layer that uses virtual DOM for performance.
+## Why React ?
 
-React can be used as the V in MVC.
+- React is a view layer that uses virtual DOM for performance.<!-- .element: class="fragment" -->
+- React can be used as the V in MVC.<!-- .element: class="fragment" -->
+- React’s true strengths - composition, unidirectional data flow.<!-- .element: class="fragment" -->
 
-React’s true strengths: composition, unidirectional data flow, freedom from DSLs, explicit mutation and static mental model.
 
 #HSLIDE
 Components, State and Lifecycle
