@@ -1,7 +1,9 @@
 #HSLIDE
 
-React Part 1
-Mukesh Purohit - 16 March 2018
+# React Part 1
+
+<span class="primary"><strong>Mukesh Purohit</strong></span> - 16 March 2018
+ 
 
 #HSLIDE
 Why React ?
