@@ -60,11 +60,11 @@
 
 ## Sample Code
 
-class Greeting extends React.Component {
+``class Greeting extends React.Component {
   render() {
     return <h1>Hello, CompoZed!!</h1>;
   }
-}
+}``
 
 ## More About Components
 
