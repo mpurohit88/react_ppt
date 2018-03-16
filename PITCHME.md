@@ -24,6 +24,9 @@ React components are small, reusable pieces of code that return a React element 
 
 single responsibility principle, that is, a component should ideally only do one thing.
 
+
+#HSLIDE
+More About Components
 Stateful vs Stateless
 
 Classes and Functions
@@ -31,16 +34,18 @@ Classes and Functions
 Pure and Impure
 
 #HSLIDE
-Here are two types of “model” data in React: props and state
+Here are two types of “model” data in React:
 
 props and state
 
+#HSLIDE
 state
 
 Only components defined as classes can have state.
 
 difference between state and props is that props are passed from a parent component, but state is managed by the component itself.
 
+#HSLIDE
 props
 
 props are inputs to a React component. They are data passed down from a parent component to a child component. 
