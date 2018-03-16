@@ -10,13 +10,6 @@
 
 - React is a view layer that uses virtual DOM for performance.<!-- .element: class="fragment" -->
 - React can be used as the V in MVC.<!-- .element: class="fragment" -->
-
-#HSLIDE
-
-## Why React ?
-
-- React is a view layer that uses virtual DOM for performance.<!-- .element: class="fragment" -->
-- React can be used as the V in MVC.<!-- .element: class="fragment" -->
 - React’s true strengths - composition, unidirectional data flow.<!-- .element: class="fragment" -->
 
 
