@@ -16,10 +16,33 @@
 #HSLIDE
 
 ## What we will cover today ?
-- Components<!-- .element: class="fragment" -->
 - Data Model <!-- .element: class="fragment" -->
+- Components<!-- .element: class="fragment" -->
 - Lifecycle<!-- .element: class="fragment" -->
 
+
+#HSLIDE
+
+## Here are two types of “model” data in React:
+
+- props<!-- .element: class="fragment" -->
+- state<!-- .element: class="fragment" -->
+
+#HSLIDE
+
+## state
+
+- Only components defined as classes can have state.<!-- .element: class="fragment" -->
+
+#HSLIDE
+
+## props
+
+- Props are inputs to a React component. They are data passed down from a parent component to a child component. <!-- .element: class="fragment" -->
+
+- Remember that props are readonly. They should not be modified in any way.<!-- .element: class="fragment" -->
+
+- Difference between state and props is that props are passed from a parent component, but state is managed by the component itself.<!-- .element: class="fragment" -->
 
 #HSLIDE
 # Components
@@ -44,29 +67,6 @@
 - Presentational and Container Components<!-- .element: class="fragment" -->
 
 - Composition Patterns<!-- .element: class="fragment" -->
-
-#HSLIDE
-
-## Here are two types of “model” data in React:
-
-- props<!-- .element: class="fragment" -->
-- state<!-- .element: class="fragment" -->
-
-#HSLIDE
-
-## state
-
-- Only components defined as classes can have state.<!-- .element: class="fragment" -->
-
-#HSLIDE
-
-## props
-
-- Props are inputs to a React component. They are data passed down from a parent component to a child component. <!-- .element: class="fragment" -->
-
-- Remember that props are readonly. They should not be modified in any way.<!-- .element: class="fragment" -->
-
-- Difference between state and props is that props are passed from a parent component, but state is managed by the component itself.<!-- .element: class="fragment" -->
 
 #HSLIDE
 ## Lifecycle Methods
